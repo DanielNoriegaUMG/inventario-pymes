@@ -53,3 +53,16 @@ Estas tecnologías permiten construir una aplicación escalable, segura y eficie
   <img src="IS/imgs/Casos de uso.png" width="600"/>
 </p>
 
+## Documentación del Proyecto
+
+### DERCAS
+Documento de criterios de aceptación del sistema.
+
+➡️ [Abrir DERCAS](IS/DERCAS.pdf)
+
+---
+
+### RF y RNF
+Especificación de requerimientos funcionales y no funcionales.
+
+➡️ [Abrir documento de Requerimientos](IS/RFyRNF.pdf)
