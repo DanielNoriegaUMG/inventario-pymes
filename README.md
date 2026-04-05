@@ -66,3 +66,8 @@ Documento de criterios de aceptación del sistema.
 Especificación de requerimientos funcionales y no funcionales.
 
 ➡️ [Abrir documento de Requerimientos](IS/RFyRNF.pdf)
+
+### Mockups para sistema de inventario
+Dejamos la interfaz de como ser la primera version del sistema, puedes visualizarlo en el siguiente enlance:
+
+➡️ [Abrir Figma](https://www.figma.com/design/QjiQ0QQiPWJMy18bEVVvQx/IS-grupo-4-inventario-PyMES?t=Ub03n3hAhjYqwNM7-1)
