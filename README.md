@@ -38,3 +38,18 @@ El sistema será desarrollado utilizando tecnologías modernas orientadas al des
 - **Autenticación:** JSON Web Tokens (JWT)  
 
 Estas tecnologías permiten construir una aplicación escalable, segura y eficiente.
+
+---
+
+## Documentación Visual del Proyecto
+
+### EDT
+<p align="center">
+  <img src="IS/imgs/EDT IS.png" width="600"/>
+</p>
+
+### Casos de Uso
+<p align="center">
+  <img src="IS/imgs/Casos de uso.png" width="600"/>
+</p>
+
