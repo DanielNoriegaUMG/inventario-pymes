@@ -76,3 +76,24 @@ Dejamos la interfaz de como ser la primera version del sistema, puedes visualiza
 Se deja con mas detalle cuales son las metodologias que utilizamos para realizar el proyecto.
 
 ➡️ [Abrir documento de Requerimientos](IS/MetodologiaUsadaIS.pdf)
+
+---
+
+## Visualizacion de sistema PyMES
+
+### Mockups
+<p align="center">
+  <img src="IS/imgs/mockups/pantalla1.png" width="600"/>
+</p>
+<p align="center">
+  <img src="IS/imgs/mockups/pantalla2.png" width="600"/>
+</p>
+<p align="center">
+  <img src="IS/imgs/mockups/pantalla3.png" width="600"/>
+</p>
+<p align="center">
+  <img src="IS/imgs/mockups/Imagen4.png" width="600"/>
+</p>
+<p align="center">
+  <img src="IS/imgs/mockups/Imagen5.png" width="600"/>
+</p>
