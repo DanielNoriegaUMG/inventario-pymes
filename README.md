@@ -71,3 +71,8 @@ Especificación de requerimientos funcionales y no funcionales.
 Dejamos la interfaz de como ser la primera version del sistema, puedes visualizarlo en el siguiente enlance:
 
 ➡️ [Abrir Figma](https://www.figma.com/design/QjiQ0QQiPWJMy18bEVVvQx/IS-grupo-4-inventario-PyMES?t=Ub03n3hAhjYqwNM7-1)
+
+### Infografia de metodologias utilizadas
+Se deja con mas detalle cuales son las metodologias que utilizamos para realizar el proyecto.
+
+➡️ [Abrir documento de Requerimientos](IS/MetodologiaUsadaIS.pdf)
